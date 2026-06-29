@@ -2,7 +2,7 @@
 
 **Analista Programador** · Argentina 🇦🇷
 
-Desarrollo software a medida para pequeñas y medianas empresas: ERPs de escritorio, APIs mobile, sitios web y automatizaciones con n8n. Me enfoco en soluciones reales, mantenibles y listas para producción.
+Desarrollo software a medida para pequeñas y medianas empresas: ERPs de escritorio, APIs mobile, sitios web y automatizaciones. Me enfoco en soluciones reales, mantenibles y listas para producción.
 
 ---
 
