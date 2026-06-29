@@ -42,8 +42,8 @@ Desarrollo software a medida para pequeñas y medianas empresas: ERPs de escrito
 | [🏢 ERP + WhatsApp Bot](https://github.com/LucasT27) | ERP de escritorio con bot WhatsApp 24/7 para atención automática de pedidos | Java · Spring Boot · React · Electron |
 | [📱 Mobile API Stock](https://github.com/LucasT27) | API backend mobile-first para control de inventario con roles y auditoría | REST API · Docker · JWT |
 | [⚡ Automatizaciones n8n](https://github.com/LucasT27) | Workflows para publicación automática de contenido deportivo en tiempo real | n8n · APIs REST · JSON |
-| [🌐 Sitio Web HDV](https://github.com/LucasT27) | Sitio institucional multi-página responsive | HTML · CSS · JavaScript |
-| [🏍️ ERP FaustoMotos](https://github.com/LucasT27) | Sistema de gestión para motociclería, todo empaquetado como .exe | Electron · React · Node.js |
+| [🌐 Sitio Web HDV](https://github.com/LucasT27) | Pagina web ecommerce | HTML · CSS · JavaScript |
+| [🏍️ ERP FaustoMotos](https://github.com/LucasT27) | Sistema de gestión para taller de motos| Electron · React · Node.js |
 
 ---
 
