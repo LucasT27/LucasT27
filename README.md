@@ -42,9 +42,9 @@ Desarrollo software a medida para pequeñas y medianas empresas: ERPs de escrito
 | [🏢 ERP + WhatsApp Bot](https://github.com/LucasT27/erp-whatsapp-bot) | ERP de escritorio con bot WhatsApp 24/7 para atención automática de pedidos en dispensarios y comercios | Java · Spring Boot · React · Electron |
 | [📱 Mobile API Stock](https://github.com/LucasT27/mobile-stock-api) | API backend mobile-first para control de inventario controlado con roles granulares y auditoría completa | REST API · Docker · JWT |
 | [⚡ Automatizaciones n8n](https://github.com/LucasT27/n8n-automatizaciones) | Workflows para publicación automática de contenido deportivo en tiempo real | n8n · APIs REST · JSON |
-| [🌐 Sitio Web HDV](https://github.com/LucasT27/web-ecommerce) | Pagina web ecommerce | HTML · CSS · JavaScript |
-| [🏍️ ERP FaustoMotos](https://github.com/LucasT27/gestion-comercial-desktop) | Sistema de gestión para taller de motos | Electron · React · Node.js |
-| [🛒 E-commerce Importaciones](https://github.com/LucasT27/ecommerce-store) | Catálogo online de +1900 productos con búsqueda, filtros y cierre de venta por WhatsApp | HTML · JS · Supabase · Netlify |
+| [🌐 Página Web](https://github.com/LucasT27/web-ecommerce) | Sitio institucional multi-página con catálogo de productos, planes de membresía y formulario de contacto. Responsive, sin frameworks y sin costos de servidor | HTML · CSS · JavaScript |
+| [🏍️ ERP-TALLER-MOTOS](https://github.com/LucasT27/gestion-comercial-desktop) | Sistema de gestión comercial para taller de motos | Electron · React · Node.js |
+| [🛒 E-commerce Importaciones](https://github.com/LucasT27/ecommerce-store) | Plataforma e-commerce full-stack con +1900 productos, carrito, pagos con Mercado Pago, panel admin, emails automáticos y gestión de stock en tiempo real | HTML · JS · Supabase · Netlify |
 
 ---
 
