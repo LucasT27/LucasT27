@@ -44,7 +44,7 @@ Desarrollo software a medida para pequeñas y medianas empresas: ERPs de escrito
 | [⚡ Automatizaciones n8n](https://github.com/LucasT27/n8n-automatizaciones) | Workflows para publicación automática de contenido deportivo en tiempo real | n8n · APIs REST · JSON |
 | [🌐 Sitio Web HDV](https://github.com/LucasT27/web-ecommerce) | Pagina web ecommerce | HTML · CSS · JavaScript |
 | [🏍️ ERP FaustoMotos](https://github.com/LucasT27/gestion-comercial-desktop) | Sistema de gestión para taller de motos | Electron · React · Node.js |
-| [🛒 E-commerce Importaciones](https://github.com/LucasT27/Hojas-de-vida) | Catálogo online de +1900 productos con búsqueda, filtros y cierre de venta por WhatsApp | HTML · JS · Supabase · Netlify |
+| [🛒 E-commerce Importaciones](https://github.com/LucasT27/ecommerce-store) | Catálogo online de +1900 productos con búsqueda, filtros y cierre de venta por WhatsApp | HTML · JS · Supabase · Netlify |
 
 ---
 
