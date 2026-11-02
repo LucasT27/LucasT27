@@ -2,7 +2,8 @@
 
 **Analista Programador** · Argentina 🇦🇷
 
-Desarrollo software a medida para pequeñas y medianas empresas: ERPs de escritorio, APIs mobile, sitios web y automatizaciones. Me enfoco en soluciones reales, mantenibles y listas para producción.
+Actualmente me encuentro en la busqueda de trabajo!
+Tengo proyoctos realizados que los vas a poder ver aca abajo.
 
 ---
 
