@@ -1,62 +1,29 @@
-# Hola, soy Lucas Tomasello 👋
+<p align="center">
+  <a href="https://lucast27.github.io/portfolio/">
+    <img src="./assets/profile-header.svg" alt="Lucas Tomasello — construir, conectar, automatizar. Ir al portfolio." width="100%" />
+  </a>
+</p>
 
-**Analista Programador** · Argentina 🇦🇷
+<p align="center">
+  <strong>Analista Programador · Argentina</strong><br />
+  Desarrollo aplicaciones web y de escritorio, sistemas de gestión y automatizaciones.
+</p>
 
-Actualmente me encuentro en la busqueda de trabajo!
-Tengo proyoctos realizados que los vas a poder ver aca abajo.
-
----
-
-## 🛠️ Stack
-
-**Backend**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Base de datos & DevOps**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-**Automatización**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+<p align="center">
+  <a href="https://lucast27.github.io/portfolio/"><strong>Explorar mi portfolio →</strong></a><br />
+  <sub>Proyectos, arquitectura y qué hice en cada uno.</sub>
+</p>
 
 ---
 
-## 🚀 Proyectos destacados
+<h3 align="center">Stack principal</h3>
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| [🏢 ERP + WhatsApp Bot](https://github.com/LucasT27/erp-whatsapp-bot) | ERP de escritorio con bot WhatsApp 24/7 para atención automática de pedidos en dispensarios y comercios | Java · Spring Boot · React · Electron |
-| [📱 Mobile API Stock](https://github.com/LucasT27/mobile-stock-api) | API backend mobile-first para control de inventario controlado con roles granulares y auditoría completa | REST API · Docker · JWT |
-| [⚡ Automatizaciones n8n](https://github.com/LucasT27/n8n-automatizaciones) | Workflows para publicación automática de contenido deportivo en tiempo real | n8n · APIs REST · JSON |
-| [🌐 Página Web](https://github.com/LucasT27/web-ecommerce) | Sitio institucional multi-página con catálogo de productos, planes de membresía y formulario de contacto. Responsive, sin frameworks y sin costos de servidor | HTML · CSS · JavaScript |
-| [🏍️ ERP-TALLER-MOTOS](https://github.com/LucasT27/gestion-comercial-desktop) | Sistema de gestión comercial para taller de motos | Electron · React · Node.js |
-| [🛒 E-commerce Importaciones](https://github.com/LucasT27/ecommerce-store) | Plataforma e-commerce full-stack con +1900 productos, carrito, pagos con Mercado Pago, panel admin, emails automáticos y gestión de stock en tiempo real | HTML · JS · Supabase · Netlify |
+<p align="center">
+  <code>Java</code> · <code>Spring Boot</code> · <code>React</code> · <code>TypeScript</code><br />
+  <code>Node.js</code> · <code>PostgreSQL</code> · <code>Electron</code> · <code>n8n</code>
+</p>
 
----
-
-## 📊 GitHub Stats
-
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasT27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasT27&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 📫 Contacto
-
-[![Gmail](https://img.shields.io/badge/lucastomasello.lt@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucastomasello.lt@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://LucasT27.github.io/portfolio)
+<p align="center">
+  Abierto a oportunidades laborales.<br />
+  <a href="mailto:lucastomasello.lt@gmail.com">Hablemos ↗</a>
+</p>
